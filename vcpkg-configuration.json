@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://gh-proxy.com/https://github.com/bxq2011hust/registry",
-      "baseline": "124173f92ce31af3b1a3aca7c79765905203ea0d",
+      "baseline": "fcd319ee8e4ceee9f990876bc05ccd42c9f8c087",
       "packages": [
         "openssl",
         "hsm-crypto",
